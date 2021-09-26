@@ -1,0 +1,6 @@
+{
+  "name": "new-package",
+  "version": "0.0.1",
+ 	"exports": "./index.js",
+	"keywords": ["astro-component"]
+}
